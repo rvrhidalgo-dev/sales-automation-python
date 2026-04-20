@@ -17,3 +17,8 @@ Este proyecto automatiza la transformación de datos de ventas crudos en un repo
 ## ⚙️ Cómo ejecutar
 1. Instala las dependencias: `pip install -r requirements.txt`
 2. Ejecuta: `python main.py`
+
+## 📁 Resultados del Proyecto
+Puedes ver los resultados generados directamente aquí:
+- [📥 Descargar Reporte de Excel Profesional](./reporte_ventas.xlsx)
+- [📊 Ver Gráfico de Tendencias](./grafico.png)
